@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\채리\source\repos\C프실 과제\C프실 과제\main.c(36,19): warning C4133: '함수': 'int [255]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\채리\source\repos\C프실 과제\C프실 과제\main.c(36,39): warning C4133: '=': 'char *'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+C:\Users\채리\source\repos\C프실 과제\C프실 과제\main.c(37,18): warning C4047: '>': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\채리\source\repos\C프실 과제\C프실 과제\main.c(38,12): warning C4133: '함수': 'int [255]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\채리\source\repos\C프실 과제\C프실 과제\main.c(43,13): warning C4133: '함수': 'int [255]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\채리\source\repos\C프실 과제\C프실 과제\main.c(50,14): warning C4133: '함수': 'int [255]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\채리\source\repos\C프실 과제\C프실 과제\main.c(59,49): warning C4048: 배열 첨자가 다릅니다. 'int (*)[10]'과(와) 'int [50][50]'
+C:\Users\채리\source\repos\C프실 과제\C프실 과제\main.c(29,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\채리\source\repos\C프실 과제\C프실 과제\main.c(58,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\채리\source\repos\C프실 과제\C프실 과제\main.c(39): warning C4700: 초기화되지 않은 'A' 지역 변수를 사용했습니다.
+C:\Users\채리\source\repos\C프실 과제\C프실 과제\main.c(40): warning C4700: 초기화되지 않은 'B' 지역 변수를 사용했습니다.
+C:\Users\채리\source\repos\C프실 과제\C프실 과제\main.c(41): warning C4700: 초기화되지 않은 'C' 지역 변수를 사용했습니다.
+  C프실 과제.vcxproj -> C:\Users\채리\source\repos\C프실 과제\Debug\C프실 과제.exe

@@ -1,0 +1,12 @@
+﻿  김채리2.c
+C:\Users\채리\source\repos\final\final\김채리2.c(20,20): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\채리\source\repos\final\final\김채리2.c(31,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\채리\source\repos\final\final\김채리2.c(33,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\채리\source\repos\final\final\김채리2.c(50,12): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\채리\source\repos\final\final\김채리2.c(57,12): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\채리\source\repos\final\final\김채리2.c(43,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\채리\source\repos\final\final\김채리2.c(68,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\채리\source\repos\final\final\김채리2.c(75,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+김채리2.obj : error LNK2005: _main이(가) 김채리1.obj에 이미 정의되어 있습니다.
+김채리3.obj : error LNK2005: _main이(가) 김채리1.obj에 이미 정의되어 있습니다.
+C:\Users\채리\source\repos\final\Debug\final.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

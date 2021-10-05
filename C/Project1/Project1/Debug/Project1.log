@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\채리\source\repos\Project1\Project1\main.c(8,6): error C2065: 'sum': 선언되지 않은 식별자입니다.
+C:\Users\채리\source\repos\Project1\Project1\main.c(9,18): error C2065: 'sum': 선언되지 않은 식별자입니다.
+C:\Users\채리\source\repos\Project1\Project1\main.c(11,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\채리\source\repos\Project1\Project1\main.c(6,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\채리\source\repos\Project1\Project1\main.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
