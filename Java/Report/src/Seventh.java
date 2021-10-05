@@ -6,7 +6,7 @@ public class Seventh {
 		// TODO Auto-generated method stub
 
 		Scanner scanner = new Scanner(System.in);
-		System.out.print("ÇÐÁ¡À» ÀÔ·ÂÇÏ¼¼¿ä>>");
+		System.out.print("í•™ì ì„ ìž…ë ¥í•˜ì„¸ìš”>>");
 		String grade = scanner.next();
 		switch(grade) {
 		case "A":

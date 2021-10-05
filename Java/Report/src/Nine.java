@@ -5,19 +5,19 @@ public class Nine {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
-		System.out.print("1~99 »çÀÌÀÇ Á¤¼ö¸¦ ÁÖ¹®ÇÏ¼¼¿ä>>");
+		System.out.print("1~99 ì‚¬ì´ì˜ ì •ìˆ˜ë¥¼ ì£¼ë¬¸í•˜ì„¸ìš”>>");
 		int x = scanner.nextInt();
 		int first = x/10;
 		int second= x%10;
 		if(first==3||first==6||first==9) {
 			if (second==3||second==6||second==9)
-				System.out.println("¹Ú¼öÂ¦Â¦");
+				System.out.println("ë°•ìˆ˜ì§ì§");
 			else
-				System.out.println("¹Ú¼öÂ¦");
+				System.out.println("ë°•ìˆ˜ì§");
 		}
 		else
-			System.out.println("¹Ú¼ö¾øÀ½");
-	scanner.close();		
+			System.out.println("ë°•ìˆ˜ì—†ìŒ");
+		scanner.close();		
 
 	}
 
